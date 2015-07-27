@@ -5,7 +5,7 @@ require 'omniauth_mytarget/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "omniauth_mytarget"
-  spec.version       = MailruTarget::VERSION
+  spec.version       = OmniAuth::TargetMail::VERSION
   spec.authors       = ["Gennady Novoselov"]
   spec.email         = ["gennady@novoselov.biz"]
   spec.summary       = %q{myTarget OmniAuth plugin}
